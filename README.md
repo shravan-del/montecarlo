@@ -1,11 +1,8 @@
-# Monte Carlo Ising Model Package
+# Monte Carlo Package
 
-This project implements Monte Carlo simulations for arbitrary Ising Hamiltonians.
+Python package implementing Monte Carlo simulations for arbitrary Ising Hamiltonians.
 
-Features:
-- Ising Hamiltonian energy calculations
-- Magnetization calculations
-- Thermodynamic averages
-- Metropolis Monte Carlo sampling
+## Installation
 
-Based on the Quantum Software I Monte Carlo assignment.
+```bash
+pip install .
